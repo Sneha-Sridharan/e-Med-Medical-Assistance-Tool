@@ -26,3 +26,6 @@ e-Med is your perfect medical friend. It is a tool that helps keep track of and 
 
 - Scripting Language: PHP
 - Database: MySQL
+
+# Screenshots
+![image007](https://user-images.githubusercontent.com/66522297/114920771-6c31c600-9e47-11eb-957c-c7644eb7e4b7.png)
